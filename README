@@ -1,0 +1,10 @@
+This projecct demonstrates a bug in Truffle's event
+
+to see:
+
+# run local blockchain
+truffle develop
+
+# test
+truffle test --network devTruffle
+
